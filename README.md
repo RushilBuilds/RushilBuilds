@@ -1,125 +1,156 @@
+<!-- header -->
 <div align="center">
 
-<h1>Rushil Petrus</h1>
-<p><code>AI Engineer · Sydney, AU · USYD Computational Data Science '25</code></p>
+```
+## rushil petrus / RushilBuilds
+## sydney, au · 2026
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1800&color=888888&center=true&vCenter=true&width=500&lines=Co-founder+%40+Kynetic+AI+Solutions;AI+Consultant+%40+Osteopore+(ASX%3A+OSX);Building+MCP+servers%2C+agents+%26+LLM+pipelines;USYD+Computational+Data+Science+%2725;Open+to+AI+engineering+roles+in+Sydney)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rushilpetrus-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushilpetrus)
-[![Website](https://img.shields.io/badge/Kynetic.agency-1a1a2e?style=flat&logo=vercel&logoColor=white)](https://kynetic.agency)
-[![Email](https://img.shields.io/badge/petrusbuilds%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:petrusbuilds@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1800&color=888888&center=true&vCenter=true&width=520&lines=Co-founder+%40+Kynetic+AI+Solutions;AI+Consultant+%40+Osteopore+(ASX%3A+OSX);Building+MCP+servers%2C+agents+%26+LLM+pipelines;USYD+Computational+Data+Science+%2725;Open+to+AI+engineering+roles+in+Sydney)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 Tech Stack
+```
+$ whoami
+```
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust"/>
-  <img src="https://skillicons.dev/icons?i=julia" height="40" alt="Julia" title="Julia"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"/>
-</p>
-
-### Frameworks & Runtimes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js 15"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/>
-</p>
-
-### AI / LLM
-
-<p>
-  <img src="https://img.shields.io/badge/Anthropic_SDK-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP_Protocol-6D28D9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_SDK-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="28" alt="TensorFlow" title="TensorFlow"/>
-</p>
-
-### Infra & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" title="GCP · Vertex AI"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub Actions" title="GitHub Actions"/>
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" title="Jupyter"/>
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
-</p>
+```
+name        Rushil Petrus
+handle      @RushilBuilds
+location    Sydney, AU
+education   USYD · Computational Data Science '25
+visa        485 graduate · full AU work rights
+links       in/rushilpetrus · kynetic.agency · petrusbuilds@gmail.com
+```
 
 ---
 
-## 📌 Pinned Projects
+```
+$ cat about.txt
+```
 
-| Project | Description | Stack |
-|---|---|---|
-| [**QueryLens**](https://github.com/RushilBuilds/QueryLens) | Self-healing data pipeline observatory. CUSUM/EWMA anomaly detection, Bayesian root-cause ranking over a causal DAG, circuit-breaking remediation. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white) |
-| [**docpilot**](https://github.com/RushilBuilds/docpilot) | MCP server for Claude Code. Auto-detects dependencies and injects version-accurate docs as context. 4 tools: detect, get, search, changelog. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [**hallux**](https://github.com/RushilBuilds/hallux) | AI-aware GitHub PR reviewer SaaS. Catches what Claude Code, Cursor, and Copilot actually miss. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) `in progress` |
-| [**LLM-Guardrails**](https://github.com/RushilBuilds/LLM-Guardrails) | Prompt injection, jailbreak, and PII detection library. Composable safety layer for any LLM pipeline. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white) |
-| [**data-engineering-governance**](https://github.com/RushilBuilds/data-engineering-governance) | Automated PII detection, Shadow AI discovery, and data contracts for regulated industries. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white) |
+```
+AI engineer building agentic systems, LLM pipelines, and automation
+tooling. Co-founder at Kynetic AI. Freelance AI consultant at
+Osteopore (ASX: OSX). Everything ships with a live URL, runnable
+code, or a one-line install.
+```
 
 ---
 
-## 📊 GitHub Stats
+```
+$ cat stack.conf
+```
+
+**`# languages`**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="24" title="Python"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="24" title="TypeScript"/> <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="24" title="Rust"/> <img src="https://skillicons.dev/icons?i=julia&theme=dark" height="24" title="Julia"/> <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="24" title="Bash"/>
+
+**`# frameworks`**
+
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="24" title="Next.js 15"/> <img src="https://skillicons.dev/icons?i=react&theme=dark" height="24" title="React"/> <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="24" title="FastAPI"/> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="24" title="Node.js"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="24" title="PyTorch"/>
+
+**`# ai / llm`**
+
+![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-CC785C?style=flat-square&logoColor=white)
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-6D28D9?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-6D28D9?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=flat-square&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-10a37f?style=flat-square&logo=openai&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="24" title="TensorFlow"/>
+
+**`# infra & cloud`**
+
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="24" title="GCP · Vertex AI"/> <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="24" title="Azure"/> <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="24" title="AWS"/> <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="24" title="Docker"/> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="24" title="PostgreSQL"/>
+
+**`# tools`**
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="24" title="Git"/> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="24" title="GitHub Actions"/> <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="24" title="Jupyter"/>
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+
+---
+
+```
+$ ls -1 ./projects
+```
+
+```
+QueryLens/
+```
+> Self-healing data pipeline observatory. CUSUM/EWMA anomaly detection, Bayesian root-cause ranking over a causal DAG, circuit-breaking remediation.
+> `Python` · ★ 2
+
+```
+docpilot/
+```
+> MCP server for Claude Code. Auto-detects dependencies and injects version-accurate docs as context. detect · get · search · changelog.
+> `TypeScript` · live
+
+```
+hallux/                                                          [in progress]
+```
+> AI-aware GitHub PR reviewer SaaS. Catches what Claude Code, Cursor, and Copilot actually miss. Next.js 15 · Hono · Neon · Inngest.
+> `TypeScript`
+
+```
+LLM-Guardrails/
+```
+> Prompt injection, jailbreak, and PII detection. Composable safety layer for any LLM pipeline. One-line install.
+> `Python` · open source
+
+```
+data-engineering-governance/
+```
+> Automated PII detection, Shadow AI discovery, and data contracts. Reference implementation for regulated industries.
+> `Python`
+
+---
+
+```
+$ cat languages.stats
+```
+
+```
+Python       ████████████████████░░  92%
+TypeScript   ████████████░░░░░░░░░░  primary
+Julia        ████████░░░░░░░░░░░░░░  4%
+Rust         ███░░░░░░░░░░░░░░░░░░░  learning
+```
+
+---
+
+```
+$ cat now.log
+```
+
+```
+building    hallux · kynetic client automations (Make + simPRO)
+consulting  Osteopore (ASX: OSX) — clinical evidence pipeline
+studying    AI Engineering from Scratch — 473 lessons, June 2026 →
+open to     AI eng · solutions eng · automation · Sydney/remote
+```
+
+---
+
+```
+$ cat certs.txt
+```
+
+```
+✓  Anthropic — Claude Code in Action
+✓  Anthropic — AI Fluency Foundations
+✓  Anthropic — AI Fluency Framework
+✓  Google Cloud Certified
+✓  Databricks
+✓  HackerRank
+```
+
+---
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RushilBuilds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushilBuilds&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushilBuilds&theme=github-dark&hide_border=true" height="160"/>
-</div>
-
----
-
-## 🎓 Certifications
-
-![Anthropic](https://img.shields.io/badge/Claude_Code_in_Action-Anthropic-CC785C?style=flat&logoColor=white)
-![Anthropic](https://img.shields.io/badge/AI_Fluency_Foundations-Anthropic-CC785C?style=flat&logoColor=white)
-![Anthropic](https://img.shields.io/badge/AI_Fluency_Framework-Anthropic-CC785C?style=flat&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-00b980?style=flat&logo=hackerrank&logoColor=white)
-
----
-
-## 🔭 Now
-
-- **Building** — Hallux (AI-aware PR reviewer) · Kynetic client automations (Make.com + simPRO + iAuditor)
-- **Consulting** — Osteopore (ASX: OSX) — clinical evidence analysis pipeline with Anthropic API
-- **Studying** — [AI Engineering from Scratch](https://aiengineeringfromscratch.com) — 473 lessons, 20 phases, starting June 2026
-- **Open to** — AI engineering · solutions engineering · automation consulting · Sydney / remote
-
----
-
-<div align="center">
-  <sub>485 Graduate Visa · Full Australian Work Rights · Sydney, AU</sub>
+  <sub><code>485 Graduate Visa · Full Australian Work Rights · Sydney, AU</code></sub>
 </div>
